@@ -1,0 +1,1 @@
+{"name":"operacion-iso9001-escape-room","version":"1.0.0","private":true,"description":"Escape room educativo multijugador con backend autoritativo y QR","scripts":{"start":"node server.js","test":"node test.js"},"engines":{"node":">=20"}}
